@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "8At6g2vmLhfAvSzP+b/H2AnwZHX2G6YiH0KK8vXzAJQ=",
+  "Source": "IPolicyAPI",
+  "BasePath": "_content/IPolicyAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
