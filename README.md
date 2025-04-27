@@ -15,3 +15,11 @@ PUT /api/policies/{id} → Update a policy.
 DELETE /api/policies/{id} → Delete a policy.
 
 GET /api/policies → List all policies.
+
+Add JWT Authentication to  Insurance API
+
+Register     new users	✅
+Login to get JWT token	✅
+Secure the API with JWT	✅
+Only authenticated users access data	✅
+Swagger integrated

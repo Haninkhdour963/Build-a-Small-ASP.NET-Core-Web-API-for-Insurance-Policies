@@ -11,5 +11,6 @@ namespace IPolicyAPI.Data
         }
 
         public DbSet<Policy> Policies { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

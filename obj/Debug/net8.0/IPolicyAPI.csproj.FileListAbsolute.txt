@@ -46,3 +46,11 @@ C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\obj\Debug\net8.0\r
 C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\obj\Debug\net8.0\IPolicyAPI.pdb
 C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\obj\Debug\net8.0\IPolicyAPI.genruntimeconfig.cache
 C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\obj\Debug\net8.0\ref\IPolicyAPI.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\henom\OneDrive\Desktop\InsurancePolicyAPI\IPolicyAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
